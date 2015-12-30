@@ -18,10 +18,9 @@ Screenshots:
 
 
 
-If you having trouble with "Cant get bundle.js" run:
-curl "http://localhost:8081/index.android.bundle?platform=android" -o "android/app/src/main/assets/index.android.bundle"
 
-while having your server running (react-native start) 
+Having trouble finding "bundle.js" when debugging on device?
 
 See issue: 
+
 http://stackoverflow.com/questions/32572399/react-native-android-failed-to-load-js-bundle
