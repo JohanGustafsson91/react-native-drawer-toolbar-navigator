@@ -13,7 +13,11 @@
   "main": "index.android.js",
   "devDependencies": {},
   "keywords": [
-    "react-native"
+    "react-native",
+    "android",
+    "drawer",
+    "toolbar",
+    "navigator"
   ],
   "author": "Johan Gustafsson <johan.gustafsson@solidio.se> (http://solidio.se)",
   "license": "ISC"
