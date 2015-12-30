@@ -1,0 +1,20 @@
+{
+  "name": "react-native-drawer-toolbar-navigator",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.17.0",
+    "react-native-drawer": "^1.10.2",
+    "react-native-vector-icons": "^1.0.4"
+  },
+  "description": "A react native example for Android that uses Drawermenu, Toolbar and the navigator",
+  "main": "index.android.js",
+  "devDependencies": {},
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Johan Gustafsson <johan.gustafsson@solidio.se> (http://solidio.se)",
+  "license": "ISC"
+}
