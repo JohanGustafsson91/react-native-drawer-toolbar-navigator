@@ -17,7 +17,7 @@ Screenshots:
 ![Alt text](http://gropio.com/stek/file/xzof8k "Detail view")
 
 
-
+#
 
 Having trouble finding "bundle.js" when debugging on device?
 
