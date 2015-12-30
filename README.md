@@ -3,9 +3,11 @@
 A react native example for Android that uses Drawermenu, Toolbar and the navigator
 
 Screenshots:
-http://gropio.com/stek/file/2gdk2o
-http://gropio.com/stek/file/5fmmeb
-http://gropio.com/stek/file/xzof8k
+
+![Alt text](http://gropio.com/stek/file/2gdk2o "Drawer")
+![Alt text](http://gropio.com/stek/file/5fmmeb "Example screen with toolbar")
+![Alt text](http://gropio.com/stek/file/xzof8k "Detail view")
+
 
 Setup:
 - Clone repo
