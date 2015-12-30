@@ -20,7 +20,4 @@ Screenshots:
 
 
 Having trouble finding "bundle.js" when debugging on device?
-
-See issue: 
-
-http://stackoverflow.com/questions/32572399/react-native-android-failed-to-load-js-bundle
+See issue: http://stackoverflow.com/questions/32572399/react-native-android-failed-to-load-js-bundle
