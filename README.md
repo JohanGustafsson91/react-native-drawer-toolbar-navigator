@@ -1,6 +1,6 @@
 # react-native-drawer-toolbar-navigator
 
-A react native example for Android that uses Drawermenu, Toolbar and the navigator
+A React Native example for Android that uses Navigation drawer, Toolbar and the navigator for routing.
 
 Setup:
 - Clone repo
