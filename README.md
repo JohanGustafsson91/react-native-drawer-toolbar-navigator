@@ -22,7 +22,7 @@ This repo was created as a project start with these tools integrated. I also inc
 
 ![Alt text](http://gropio.com/stek/file/xzof8k "Detail view")
 
-**Thanks to:**
+**Thanks for the awesome plugins:**
 * https://github.com/oblador/react-native-vector-icons
 * https://www.npmjs.com/package/react-native-drawer
 
