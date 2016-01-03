@@ -2,7 +2,13 @@
 
 A React Native example for Android that uses Navigation drawer, Toolbar and the navigator for routing.
 
-Setup:
+## Rationale
+
+Since React Native is so new, I haven't found any good tutorial on how to integrate **navigation drawer**, **toolbar** and the **navigator** (as router) for Android.
+
+This repo was created as a project start with these tools integrated. I also included an example on how to use a detail view with it's own toolbar. There is a lot of comments in the code so someone else can understand how it works, built on it and improve it.
+
+*Setup:*
 - Clone repo
 - run "npm install" in project folder
 - run "react-native run-android" to build app
@@ -17,8 +23,7 @@ Screenshots:
 ![Alt text](http://gropio.com/stek/file/xzof8k "Detail view")
 
 
-#
+## Issues
 
-Having trouble finding "bundle.js" when debugging on device?
-
+* Having trouble finding "bundle.js" when debugging on device?
 See issue: http://stackoverflow.com/questions/32572399/react-native-android-failed-to-load-js-bundle
